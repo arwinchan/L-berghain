@@ -6,6 +6,6 @@ l-system based generative av platform
 [L Systems Reference](http://algorithmicbotany.org/papers/abop/abop-ch1.pdf)
 
 ## Content
-*./main/*: main source code and module definitions
-*./tests/*: test suite 
-*./references/* references 
+*./main/*: main source code and module definitions  
+*./tests/*: test suite   
+*./references/* references  
